@@ -4,16 +4,6 @@
 
 I'm an **MS ECE (Robotics) student at UC San Diego**, focusing in **modern robot learning** and working at the intersection of **robotics, machine learning, and embodied AI**.
 
-My current interests include:
-
-* 🧠 **Vision-Language-Action (VLA) models**
-* 👁️ **Vision-Language Navigation (VLN)**
-* 🦾 **Learning-based manipulation**
-* 🧭 **Motion & path planning**
-* 🤝 **Multi-robot systems**
-
----
-
 ## 🔬 What I'm Working On
 
 ### 🦾 Modern Robot Learning
@@ -36,36 +26,10 @@ Previously worked on autonomous warehouse robots, focusing on **multi-agent path
 
 ---
 
-## 🛠️ Tools & Technologies
-
-**Languages**
-
-`Python` `C++`
-
-**Robotics**
-
-`ROS 2` `Isaac Sim` `Isaac Lab` `Gazebo` `Nav2`
-
-**Machine Learning**
-
-`PyTorch` `Transformers` `Computer Vision` `Deep Learning`
-
-**Infrastructure**
-
-`Linux` `Docker` `Git` `CUDA`
-
----
-
 ## 🚀 My Approach
 
 I enjoy taking ideas from **papers → code → simulation → real robots**.
 
 My goal is to understand modern learning techniques deeply enough to **build them from scratch, experiment with them, and ultimately deploy them on physical robots**.
 
-> **Get 1% better every day.**
-
 ---
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](www.linkedin.com/in/vanshraisaini)
