@@ -10,19 +10,13 @@ I'm an **MS ECE (Robotics) student at UC San Diego**, focusing in **modern robot
 
 Exploring how modern foundation models and generative learning methods can be applied to robotics, with a focus on connecting **vision, language, and action**.
 
-`PyTorch` · `Transformers` · `VLA` · `Flow Matching` 
-
-### 🧭 Vision-Language Navigation
-
-Building and experimenting with robotic navigation systems that combine **visual perception, language understanding, spatial reasoning, and planning**.
-
-`Isaac Sim` · `ROS 2` · `Nav2` · `PyTorch`
+`PyTorch` · `Attention` · `Transformers` · `VLAs` · `VLNs` · `Flow Matching`
 
 ### 🤖 Multi-Robot Autonomy
 
 Previously worked on autonomous warehouse robots, focusing on **multi-agent path planning, fleet coordination, deadlock detection and recovery, and simulation**.
 
-`C++` · `Python` · `ROS 2` · `Gazebo` · `Linux` · `Multi Agent Path Planning` 
+`C++` · `Python` · `ROS 2` · `Gazebo` · `Linux` · `Nav2` 
 
 ---
 
