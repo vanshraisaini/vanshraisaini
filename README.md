@@ -1,7 +1,5 @@
 # Hi, I'm Vansh 👋
 
-### Robotics Engineer • Modern Robot Learning • Embodied AI
-
 I'm an **MS ECE (Robotics) student at UC San Diego**, focusing in **modern robot learning**.
 
 ## 🚀 My Approach
